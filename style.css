@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+  background: #222;
+  color: #fff;
+  font-family: sans-serif;
+  padding: 0px;
+  margin: 0px;
+}
+
+h1 {
+  color: #ff0072;
+  /* font-family: 'Beleren', cursive; */
+  font-size: 64px;
+}
+
+.heroImage {
+  width: 100%;
+  display:block;
+}
+
+.specialUnderline {
+  text-decoration: underline;
+}
+
+p {
+  margin: 0px 0px 32px 0px;
+}
